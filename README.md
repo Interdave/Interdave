@@ -1,7 +1,7 @@
 # Welcome to my Personal Profile Page
 
 ## 1. About me
-Hi, I am David, 23 y/o, comin' from Germany. I am a developer specialized to Framework Engineering and AI Development. Eventhough 
+Hi, I am David, 23 y/o, comin' from Germany. I am a developer specialized to Framework Engineering and AI Development.
 
 ## 2. Skills
 Eventhough I am young, I have gained a lot of experience in the following Languages:
